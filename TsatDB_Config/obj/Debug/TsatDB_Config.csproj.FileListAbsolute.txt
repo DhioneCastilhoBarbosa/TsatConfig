@@ -1,0 +1,10 @@
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.Form1.resources
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.Properties.Resources.resources
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.csproj.GenerateResource.cache
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.csproj.CoreCompileInputs.cache
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\bin\Debug\TsatDB_Config.exe.config
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\bin\Debug\TsatDB_Config.exe
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\bin\Debug\TsatDB_Config.pdb
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.exe
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.pdb
+C:\Users\dhion\OneDrive\Documentos\Programa_Tsat_config\TsatDB_Config\TsatDB_Config\obj\Debug\TsatDB_Config.csprojAssemblyReference.cache

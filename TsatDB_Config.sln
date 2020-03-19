@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsatDB_Config", "TsatDB_Config\TsatDB_Config.csproj", "{585E5322-11D0-47CE-8E70-435F0FE48446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585E5322-11D0-47CE-8E70-435F0FE48446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585E5322-11D0-47CE-8E70-435F0FE48446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585E5322-11D0-47CE-8E70-435F0FE48446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585E5322-11D0-47CE-8E70-435F0FE48446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E853396-C54C-4844-857F-B0430C1CFB3F}
+	EndGlobalSection
+EndGlobal
